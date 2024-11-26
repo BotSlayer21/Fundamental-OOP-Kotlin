@@ -15,18 +15,16 @@ fun main() {
 */
 
 //1 Latihan Variable
-//1.1. Var
-//fun main() {
-//    var namaUniversitas: String = "Universitas Dinamika Bangsa"
-//    namaUniversitas = "Unama"
-//    println(namaUniversitas)
-//}
+//A. Var
+fun main() {
+    var namaUniversitas: String = "Universitas Dinamika Bangsa"
+    namaUniversitas = "Unama"
+    println(namaUniversitas)
+}
 
-//1.2. Val
+//B. Val
 //fun main() {
 //    val namaUniversitas: String = "Universitas Dinamika Bangsa"
 //    namaUniversitas = "Unama"
 //    println(namaUniversitas)
 //}
-
-//Just Uncomment the syntax to see the result

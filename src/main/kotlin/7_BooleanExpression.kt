@@ -10,7 +10,7 @@
     println("x != y = " + (x!=y))
 }*/
 
-//7 Boolean Expression
+//7 Latihan Data Types (Boolean Expression)
 fun main() {
     val a: Double = 46.7
     val b: Double = 60.3

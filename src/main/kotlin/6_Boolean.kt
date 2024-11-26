@@ -1,4 +1,4 @@
-//Data Types Boolean
+//Data Types (Boolean)
 //Contoh Modul Data Types Boolean
 /*fun main() {
     var x = true
